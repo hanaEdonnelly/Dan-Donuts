@@ -13,6 +13,6 @@ Tanner Beane & Dirty Power are a Charleston-based band who aim to provide unforg
 Our group prides ourselves on proffesionalism and being easy to work with. Whether you're planning a wedding, corporate event, or venue booking, we bring the same level of professionalism to every stage.
 
 <br>
-## Our Lineup
+## Permanent Lineup
 
 {% include members.liquid %}
