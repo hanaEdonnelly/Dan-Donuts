@@ -11,26 +11,26 @@ position: 2
 </div>
 
 <br>
-<i><b>Professional. Crowd-Pleasing. Southern. Ready for Your Stage.</b></i>
+<i><b>Modern Country Rock • Southern Roots • Electric Stage Presence</b></i>
 
 Whether you’re hosting a festival, bar night, private event, or outdoor concert, Tanner Beane &amp; Dirty Power brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
 <br>
 <br>
 
 ## Why book Dirty Power?
-### 🔥 High-energy modern country rock
+### High-energy modern country rock
 A setlist packed with crowd favorites, top country hits, Southern rock anthems, and Dirty Power originals. We have something for every audience.
 
-### 🎤 Powerful vocals &amp; tight musicianship
+### Powerful vocals &amp; tight musicianship
 Professional sound with a polished, cohesive band that performs with passion and precision.
 
-### ⚡ Proven Live Experience
+### Proven Live Experience
 Our clips show exactly what you get: real Southern electricity and full-room engagement.
 
-### 🎶 A show customized for you
+### A show customized for you
 Dirty Power reads the room adjusting setlist, pacing, and energy for bars, fairs, weddings, corporate events, and everything in between.
 
-### 🎸 Professional gear & easy setup
+### Professional gear & easy setup
 Electric stage presence, professional equipment, punctual load-in, and smooth communication before, during, and after the event.
 <br>
 <br>
