@@ -23,23 +23,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br>
 
 ## What we provide
-* Full-band 60-180 minute live performance
-* Curated setlist for your audience
-* Sound check & setup
-* Break music 
-* MC-style crowd engagement 
-* Optional acoustic sets
+* 90 minute performance
+* Sound equipment setup & breakdown
+* Promotional materials
+* Built-in audience
+* A setlist tailored to your venue 
 <br>
 <br>
-
-## For venues & event planners
-Available upon request:
-* Stage plot & input list
-* Technical rider
-* EPK
-* Promotional photos & videos
-<br>
-<br>
-
 ## Booking contact
 <p>Contact us at <a href="mailto:#">email@email.com</a> for booking.</p>
