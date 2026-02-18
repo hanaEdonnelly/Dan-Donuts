@@ -7,31 +7,18 @@ description:
 position: 2
 ---
 <div class="button-container">
-    <a href="mailto:tannerbeanedirtypower@gmail.com" class="button-inverse">Contact Us</a>
+    <a href="mailto:#" class="button-inverse">Email Us</a>
 </div>
-
+<div class="button-container">
+    <a href="tel:#" class="button-inverse">Call Us</a>
+</div>
 <br>
-<i><b><p style="text-align: center;">Modern Country Rock • Southern Roots • Electric Stage Presence</p></b></i>
-
-Whether you’re hosting a festival, bar night, private event, or outdoor concert, Tanner Beane &amp; Dirty Power brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
+Whether you’re hosting a festival, bar night, private event, or outdoor concert, our band brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
 <br>
 <br>
 
-## Why book Dirty Power?
-### High-energy modern country rock
-A setlist packed with crowd favorites, top country hits, Southern rock anthems, and Dirty Power originals. We have something for every audience.
-
-### Powerful vocals &amp; tight musicianship
-Professional sound with a polished, cohesive band that performs with passion and precision.
-
-### Proven Live Experience
-Our clips show exactly what you get: real Southern electricity and full-room engagement.
-
-### A show customized for you
-Dirty Power reads the room adjusting setlist, pacing, and energy for bars, fairs, weddings, corporate events, and everything in between.
-
-### Professional gear & easy setup
-Electric stage presence, professional equipment, punctual load-in, and smooth communication before, during, and after the event.
+## Why book us?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 <br>
 <br>
 
@@ -55,4 +42,4 @@ Available upon request:
 <br>
 
 ## Booking contact
-<p><a href="mailto:tannerbeanedirtypower@gmail.com">Tannerbeanedirtypower@gmail.com</a> or reach out to us through our social channels
+<p>Contact us at <a href="mailto:#">email@email.com</a> for booking.</p>

@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
 url: ""
-baseurl: "/DirtyPower"
+baseurl: "/"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Tanner Beane & Dirty Power
-description: "The official website of Tanner Beane & Dirty Power"
+title: Band Theme
+description: "The official website of our band"
 avatar: # Empty for no avatar in navbar
-favicon: #"assets/favicon.png"
+favicon: #
 
 # Header and footer text
-header_text: "Tanner Beane & Dirty Power"
+header_text: "Our Band"
 header_feature_image: "assets/img/feature-img/stage.jpg"
 header_feature_image_responsive: true
 footer_text: 
@@ -40,7 +40,6 @@ comments:
     repo: ""
     issue-term: ""
 
-# PORTFOLIO
 collections:
   portfolio:
     output: true
@@ -50,6 +49,9 @@ collections:
     permalink: /shows/:name
   members:
     output: true
+  merch:
+    output: true
+    permalink: /merch/:name
 
 # BUILD SETTINGS
 sass:

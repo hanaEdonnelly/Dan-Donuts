@@ -1,0 +1,14 @@
+<ul class="show-list">
+{% assign sorted_merch = site.merch | sort: "order" %}
+  {% for item in sorted_merch %}
+    <li class="show-card">
+    {% if item.featureimg %}
+        <img src="{{ item.featureimg | relative_url }}" alt=" {{ item.title }}" >
+    {% endif %}
+        <h2>{{ item.title }} | ${{ item.price }}<br></h2>
+        <a class="button-inverse" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+            Purchase
+          </a>
+    </li>
+  {% endfor %}
+</ul>

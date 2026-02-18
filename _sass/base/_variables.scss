@@ -38,18 +38,18 @@ html, html[data-theme="light"] {
   --h4: #000000;
   --h5: #000000;
   --h6: #000000;
-  --link: #664229; 
+  --link: #023E8A; 
   --header-background: #f7f3fa; 
   --header-text: #000000;
-  --header-link: #664229;
+  --header-link: #023E8A;
   --blockquote: #fcefff;
   --code-background: #f5f5f5;
-  --code-inline: #664229; 
+  --code-inline: #023E8A; 
   --border: rgba(0, 0, 0, 0.2);
-  --selection: #e0d0f5;
+  --selection: #48CAE4;
   --table-row-even: #f9f9f9;
   --table-row-odd: #ffffff;
-  --table-head-bg: #664229;
+  --table-head-bg: #023E8A;
   --text-inverse: #ffffff; 
   --text-shadow: rgba(0, 0, 0, 0.3);
 }
@@ -63,18 +63,18 @@ html[data-theme="dark"] {
   --h4: #ffffff;
   --h5: #ffffff;
   --h6: #ffffff;
-  --link: #E5D3B3; 
-  --header-background: #E5D3B3; 
+  --link: #ade8fe; 
+  --header-background: #ade8fe; 
   --header-text: #ffffff;
-  --header-link: #E5D3B3;
-  --blockquote: #352314;
+  --header-link: #ade8fe;
+  --blockquote: #48cae4;
   --code-background: #2a2a2a;
-  --code-inline: #FFE3B0; 
+  --code-inline: #ade8fe; 
   --border: rgba(255, 255, 255, 0.2);
   --selection: #;
   --table-row-even: #2c2c2c;
   --table-row-odd: #1f1f1f;
-  --table-head-bg: #E5D3B3;
+  --table-head-bg: #ade8fe;
   --text-inverse: #000000; /* For light text on dark backgrounds */
   --text-shadow: rgba(0, 0, 0, 0.3);
 }

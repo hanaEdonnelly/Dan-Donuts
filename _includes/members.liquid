@@ -6,7 +6,7 @@
         <img src="{{ member.featureimg | relative_url }}" alt=" {{ member.title }}" >
     {% endif %}
         <h2>{{ member.title }} | {{ member.position }}<br></h2>
-        <p>About: {{ member.fact }}</p>
+        <p>{{ member.fact }}</p>
     </li>
   {% endfor %}
 </ul>
