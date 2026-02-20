@@ -34,6 +34,7 @@
   /* --- Responsive --- */
   @media screen and (max-width: $m-break) {
     background-size: 170% auto;
+    padding: 0;
   }
 
   @media screen and (max-width: 450px) {
