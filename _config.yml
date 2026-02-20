@@ -3,13 +3,13 @@ url: ""
 baseurl: "/"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Band Theme
-description: "The official website of our band"
+title: Dan and The Donuts
+description: "The official website of Dan and The Donuts"
 avatar: # Empty for no avatar in navbar
 favicon: #
 
 # Header and footer text
-header_text: "Our Band"
+header_text: "Dan And The Donuts"
 header_feature_image: "assets/img/feature-img/stage.jpg"
 header_feature_image_responsive: true
 footer_text: 
