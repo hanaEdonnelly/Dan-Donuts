@@ -38,20 +38,21 @@ html, html[data-theme="light"] {
   --h4: #000000;
   --h5: #000000;
   --h6: #000000;
-  --link: #023E8A; 
-  --header-background: #f7f3fa; 
-  --header-text: #000000;
-  --header-link: #023E8A;
-  --blockquote: #fcefff;
+  --link: #7fcda6; 
+  --header-background: #7fcda6; 
+  --header-text: #dd7e8a;
+  --header-link: #dd7e8a;
+  --blockquote: #7fcda6;
   --code-background: #f5f5f5;
   --code-inline: #023E8A; 
   --border: rgba(0, 0, 0, 0.2);
   --selection: #48CAE4;
   --table-row-even: #f9f9f9;
   --table-row-odd: #ffffff;
-  --table-head-bg: #023E8A;
+  --table-head-bg: #7fcda6;
   --text-inverse: #ffffff; 
   --text-shadow: rgba(0, 0, 0, 0.3);
+  --button: #8de4b8;
 }
 
 html[data-theme="dark"] {
@@ -63,20 +64,21 @@ html[data-theme="dark"] {
   --h4: #ffffff;
   --h5: #ffffff;
   --h6: #ffffff;
-  --link: #ade8fe; 
-  --header-background: #ade8fe; 
-  --header-text: #ffffff;
-  --header-link: #ade8fe;
-  --blockquote: #48cae4;
+  --link: #8de4b8; 
+  --header-background: #8de4b8; 
+  --header-text: #f68c99;
+  --header-link: #f68c99;
+  --blockquote: #8de4b8;
   --code-background: #2a2a2a;
-  --code-inline: #ade8fe; 
+  --code-inline: #f68c99; 
   --border: rgba(255, 255, 255, 0.2);
   --selection: #;
   --table-row-even: #2c2c2c;
   --table-row-odd: #1f1f1f;
-  --table-head-bg: #ade8fe;
+  --table-head-bg: #8de4b8;
   --text-inverse: #000000; /* For light text on dark backgrounds */
   --text-shadow: rgba(0, 0, 0, 0.3);
+  --button: #8de4b8;
 }
 
 /* BASE16 CODE HIGHLIGHT */

@@ -1,0 +1,64 @@
+# SITE CONFIGURATION
+url: ""
+baseurl: "/"
+
+# THEME-SPECIFIC CONFIGURATION
+title: Band Theme
+description: "The official website of our band"
+avatar: # Empty for no avatar in navbar
+favicon: #
+
+# Header and footer text
+header_text: "Our Band"
+header_feature_image: "assets/img/feature-img/stage.jpg"
+header_feature_image_responsive: true
+footer_text: 
+  Created by <a href='https://hana.gallery'>Hana Donnelly</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>
+
+# Plugins 
+plugins: 
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Blog
+excerpt: true
+post_navigation: true
+color_image: "assets/img/lineart.png"
+
+# Features
+katex: false
+mermaid: false
+google_analytics:
+cookie_consent: true
+color_theme: auto
+
+# Comments options
+comments:
+  disqus_shortname: ""
+  cusdis_app_id: ""
+  utterances:
+    repo: ""
+    issue-term: ""
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+  shows: 
+    output: true
+    permalink: /shows/:name
+  members:
+    output: true
+  merch:
+    output: true
+    permalink: /merch/:name
+
+# BUILD SETTINGS
+sass:
+  style: compressed
+exclude:
+  - ".jekyll-cache"
+  - ".jekyll-metadata"
+  - ".idea"
+  - "vendor/*"
+  - "assets/node_modules/*"
