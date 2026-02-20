@@ -24,7 +24,16 @@ description:
     </style>
     
     <div id="main" class="call-out call-out_img">
-        <h1>{{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>" }}</h1>
+        <h1 class="hero-title">
+            <span class="desktop-title">
+                {{ site.header_text }}
+            </span>
+            <img 
+                src="{{ '/assets/img/logo.png' | relative_url }}" 
+                alt="{{ site.title }} logo"
+                class="mobile-logo"
+            >
+        </h1>
     </div>
     <div class="posts">
         <div class="post-teaser">

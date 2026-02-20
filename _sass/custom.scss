@@ -91,3 +91,35 @@
 audio {
     margin-bottom: 16px;
 }
+
+/* ================================
+   Homepage Hero Logo (Mobile)
+================================ */
+
+.hero-title {
+  text-align: center;
+}
+
+.mobile-logo {
+  display: none;
+  max-width: 250px;
+  height: auto;
+}
+
+/* Show logo instead of text on mobile */
+@media screen and (max-width: 768px) {
+  .desktop-title {
+    display: none;
+  }
+
+  .mobile-logo {
+    display: inline-block;
+  }
+}
+
+/* Extra small screens */
+@media screen and (max-width: 480px) {
+  .mobile-logo {
+    max-width: 180px;
+  }
+}
