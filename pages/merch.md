@@ -4,7 +4,7 @@ title: Merch
 permalink: /merch/
 tags: [Page]
 description: 
-hide: false
+hide: true
 position: 5 
 ---
 
