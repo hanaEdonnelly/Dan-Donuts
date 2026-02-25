@@ -55,4 +55,3 @@ For all kinds of events, Dan and the Donuts bring the timeless style, nonstop en
     <a href="tel:#" class="button-inverse">Call Us</a>
 </div>
 
-![Dan and the Donuts on stage](assets/img/feature-img/IMG_1907.JPG)

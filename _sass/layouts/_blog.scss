@@ -9,7 +9,7 @@
   text-align: center;
   color: var(--header-text);
   background: no-repeat var(--header-background);
-  backdrop-filter: brightness(0.5);
+  backdrop-filter: brightness(.5);
   background-size: cover;
   overflow: hidden; // keeps overlay inside bounds
 
@@ -18,7 +18,7 @@
     position: absolute;
     inset: 0;
     background-color: var(--link);
-    opacity: 0.3; // Adjust for tint intensity
+    opacity: 0.2; // Adjust for tint intensity
     pointer-events: none;
     z-index: 0; // lower than content
   }
