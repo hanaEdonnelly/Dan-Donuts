@@ -10,7 +10,7 @@ favicon: #
 
 # Header and footer text
 header_text: "Dan And The Donuts"
-header_feature_image: "assets/img/feature-img/stage.jpg"
+header_feature_image: "assets/img/feature-img/IMG_1907.JPG"
 header_feature_image_responsive: true
 footer_text: 
   Created by <a href='https://hana.gallery'>Hana Donnelly</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>
