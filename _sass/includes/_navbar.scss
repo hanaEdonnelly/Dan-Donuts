@@ -34,14 +34,25 @@
   }
 
   .avatar {
-    /*height: 3em;*/
+    max-height: 30px;
     width: 50%;
     float: left;
     margin-top: -13px;
     border-radius: 0.2em;
     margin-right: 0.5em;
     padding: 10px 10px;
+    display: none;
+  }
 
+  // Light theme (default)
+  html[data-theme="light"] & .avatar-dark,
+  html:not([data-theme]) & .avatar-dark {
+    display: block;
+  }
+
+  // Dark theme
+  html[data-theme="dark"] & .avatar-light {
+    display: block;
   }
 
   .site-title {
