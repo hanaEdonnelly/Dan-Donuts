@@ -23,7 +23,7 @@
     font-weight: 600;
     font-style: normal;
     margin-bottom: 0.25em;
-    text-decoration: underline;
+    /*text-decoration: underline;*/
 }
 
 .posts > .post-teaser em {
@@ -115,6 +115,14 @@ audio {
 
   .mobile-logo {
     display: inline-block;
+  }
+
+  .hero-title {
+    background: none;
+  }
+
+  .call-out.call-out_img {
+    background-color: #fff;
   }
 }
 

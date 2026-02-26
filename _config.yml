@@ -5,7 +5,7 @@ baseurl: "/"
 # THEME-SPECIFIC CONFIGURATION
 title: Dan And The Donuts
 description: "The official website of Dan and The Donuts"
-avatar: # Empty for no avatar in navbar
+avatar: "assets/img/logo black.png"
 favicon: #
 
 # Header and footer text
