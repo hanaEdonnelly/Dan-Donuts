@@ -13,12 +13,14 @@ position: 2
     <a href="tel:16319023926" class="button-inverse">Call Us</a>
 </div>
 <br>
-Whether you’re hosting a festival, bar night, private event, or outdoor concert, our band brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
+Whether you’re hosting a festival, bar night, private event, or wedding, our band brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
 <br>
 <br>
 
 ## Why book us?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+When you book Dan and the Donuts you're hiring a full 1950s rock 'n' roll party to your event.
+
+Dan and the Donuts are a full-service act, providing all necessary equipment for seamless setup at venues and events. With years of experience in professional live entertainment, the band is polished, reliable, and easy to work with, ensuring that every performance runs smoothly and every audience member has a great time.
 <br>
 <br>
 
