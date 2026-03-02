@@ -22,10 +22,10 @@ position: 2
     </div>
 </div>
 <div class="button-container">
-    <a href="mailto:#" class="button-inverse">Email Us</a>
+    <a href="mailto:DanandtheDonuts@gmail.com" class="button-inverse">Email Us</a>
 </div>
 <div class="button-container">
-    <a href="tel:#" class="button-inverse">Call Us</a>
+    <a href="tel:16319023926" class="button-inverse">Call Us</a>
 </div>
 <br>
 Dan and the Donuts are Charleston’s premier 50s rock ’n’ roll party band, dedicated to keeping the golden era of dancehall music alive and thriving. Inspired by the vibrant energy of early rock ’n’ roll, doo-wop, and rockabilly, the band delivers a sound that instantly transports audiences back to jukeboxes, soda shops, and packed wooden dance floors. Their shows are full of high-energy rhythms, twangy guitar riffs, and harmonies that get guests twisting, jiving, and singing along from the very first song.
@@ -47,11 +47,11 @@ For all kinds of events, Dan and the Donuts bring the timeless style, nonstop en
 <br>
 
 ## Booking contact
-<p><strong><a href="mailto:#">email@email.com</a></strong> or reach out to us through our social channels.
+<p><strong><a href="mailto:DanandtheDonuts@gmail.com">DanandtheDonuts@gmail.com</a></strong> or reach out to us through our social channels.
 <div class="button-container">
-    <a href="mailto:#" class="button-inverse">Email Us</a>
+    <a href="mailto:DanandtheDonuts@gmail.com" class="button-inverse">Email Us</a>
 </div>
 <div class="button-container">
-    <a href="tel:#" class="button-inverse">Call Us</a>
+    <a href="tel:16319023926" class="button-inverse">Call Us</a>
 </div>
 
