@@ -7,10 +7,10 @@ description:
 position: 2
 ---
 <div class="button-container">
-    <a href="mailto:#" class="button-inverse">Email Us</a>
+    <a href="mailto:DanandtheDonuts@gmail.com" class="button-inverse">Email Us</a>
 </div>
 <div class="button-container">
-    <a href="tel:#" class="button-inverse">Call Us</a>
+    <a href="tel:16319023926" class="button-inverse">Call Us</a>
 </div>
 <br>
 Whether you’re hosting a festival, bar night, private event, or outdoor concert, our band brings the energy, musicianship, and reliability that make booking easy and the show unforgettable.
@@ -31,4 +31,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br>
 <br>
 ## Booking contact
-<p>Contact us at <a href="mailto:#">email@email.com</a> for booking.</p>
+<p>Contact us at <a href="mailto:DanandtheDonuts@gmail.com">DanandtheDonuts@gmail.com</a> for booking.</p>
