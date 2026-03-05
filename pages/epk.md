@@ -55,3 +55,4 @@ For all kinds of events, Dan and the Donuts bring the timeless style, nonstop en
     <a href="tel:16319023926" class="button-inverse">Call Us</a>
 </div>
 
+<img src="assets/img/band.JPG" alt="Dan and the Donuts performing on stage">
