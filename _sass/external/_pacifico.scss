@@ -14,4 +14,5 @@ $pacifico-font-path: "../../assets/fonts/Pacifico" !default;
          url('#{$pacifico-font-path}/Pacifico.svg#Pacifico') format('svg');/* Legacy iOS */
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }

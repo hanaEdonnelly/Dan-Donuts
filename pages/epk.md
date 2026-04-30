@@ -9,7 +9,7 @@ position: 2
 <!-- Rip it up -->
 <div class="posts">
     <div class="post-teaser">
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/supGaxdeLl4?autoplay=1&mute=1"  frameborder="0" allowfullscreen></iframe>
+        <iframe title="Rip it Up - Dan and the Donuts Cover" width="100%" height="315" src="https://www.youtube.com/embed/supGaxdeLl4?autoplay=1&mute=1"  frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 <div class="button-container">
@@ -54,13 +54,13 @@ For all kinds of events, Dan and the Donuts bring timeless songs, nonstop energy
 <!-- Messing with the kid-->
 <div class="posts">
     <div class="post-teaser">
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/zKX_gT8qaUo?&mute=1" frameborder="0" allowfullscreen></iframe>
+        <iframe title="Messing With The Kid - Dan and the Donuts Cover" width="100%" height="315" src="https://www.youtube.com/embed/zKX_gT8qaUo?&mute=1" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 <!-- Jonny B Goode -->
 <div class="posts">
     <div class="post-teaser">
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/6JPCh8NXobk?&mute=1" frameborder="0" allowfullscreen></iframe>
+        <iframe title="Jonny B Goode - Dan and the Donuts Cover" width="100%" height="315" src="https://www.youtube.com/embed/6JPCh8NXobk?&mute=1" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 <img src="/assets/img/band.JPG" alt="Dan and the Donuts performing on stage">
