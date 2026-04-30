@@ -105,6 +105,26 @@ audio {
   height: auto;
 }
 
+.call-out_img {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.img-overlay {
+  position: absolute;
+  inset: 0;
+  background: var(--header-background);
+  opacity: 0.5;
+    z-index: 1;
+}
+
+#main {
+  background-position: top center;
+}
+
+
+
 /* Show logo instead of text on mobile */
 @media screen and (max-width: 768px) {
   .desktop-title {
