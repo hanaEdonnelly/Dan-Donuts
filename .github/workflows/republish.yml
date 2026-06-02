@@ -1,0 +1,21 @@
+name: Republish
+
+on:
+  schedule:
+    - cron: '1 03 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger GitHub Pages rebuild
+        env:
+          USER_TOKEN: ${{ secrets.USER_TOKEN }}
+        run: |
+          curl --fail \
+            --request POST \
+            --url https://api.github.com/repos/hanaEdonnelly/Dan-Donuts/pages/builds \
+            --header "Authorization: Bearer $USER_TOKEN" \
+            --header "Accept: application/vnd.github+json"
