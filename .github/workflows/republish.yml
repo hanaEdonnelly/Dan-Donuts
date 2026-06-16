@@ -2,7 +2,7 @@ name: Republish
 
 on:
   schedule:
-    - cron: '1 03 * * *'
+    - cron: '1 18 * * *'
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,6 @@ jobs:
         run: |
           curl -i \
             --request POST \
-            --url https://api.github.com/repos/hanaEdonnelly/Dan-Donuts/pages/builds \
+            --url https://api.github.com/repos/hanaEdonnelly/DirtyPower/pages/builds \
             --header "Authorization: Bearer $USER_TOKEN" \
             --header "Accept: application/vnd.github+json"
