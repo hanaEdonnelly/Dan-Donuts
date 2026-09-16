@@ -1,0 +1,42 @@
+name: Publish Website Daily
+
+on:
+  schedule:
+    # Runs every day at midnight (00:00 UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build site or prepare files
+        run: |
+          # Add your build commands here if you use a static site generator (Hugo, Jekyll, etc.)
+          # Or ensure your HTML files are ready in your repository.
+          mkdir -p _site
+          cp index.html _site/index.html
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './_site' # Change to your built output directory if necessary
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
